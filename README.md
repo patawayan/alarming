@@ -6,7 +6,7 @@ https://www.figma.com/file/G0d7Irzd0GVpk2XBOVlN9v/alarming?node-id=345%3A1135&t=
 ## Pre-Req
 - git CLI
 - Node.js (npm)
-- Android Studio (for testing on mobile)
+- Android Studio (not required to run app)(for testing on mobile)
 
 ## Getting Started
 
@@ -23,6 +23,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+### Testing on Android Studio
+`cordova run android`
+
+
+### Build android app
+`cordova build android`
 
 
 ## Getting Started with Create React App
