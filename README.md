@@ -4,8 +4,8 @@
 https://www.figma.com/file/G0d7Irzd0GVpk2XBOVlN9v/alarming?node-id=345%3A1135&t=birvu5bAUsOUyGmf-1
 
 ## Pre-Req
-Node.js (npm)
-Android Studio (for testing on mobile)
+- Node.js (npm)
+- Android Studio (for testing on mobile)
 
 ## Getting Started
 
