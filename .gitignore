@@ -36,6 +36,7 @@
 # production
 /build
 /www
+/www1
 
 # misc
 .DS_Store
